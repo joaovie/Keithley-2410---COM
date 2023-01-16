@@ -4,6 +4,7 @@ Created on Wed Jan 14  2023
 @author: joaovie
 
 Script to comunicate with Keithley 2410 SourceMeter via RS232 Serial Communication Protocol.
+Fast Live Plotting of the measured current vs time via Pyformulas multithreaded screen.
 
 Sets the source meter to measure current and switches between 0 and 3V (To "simulate" AC current).
 Inputs:
